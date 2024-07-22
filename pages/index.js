@@ -5,7 +5,7 @@ const HomePage = (props) => {
     return (
         <Fragment>
             <Hero />
-            <FeaturedPosts />
+
         </Fragment>
     )
 
